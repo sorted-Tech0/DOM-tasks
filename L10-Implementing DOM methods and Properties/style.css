@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 5rem;
+}
+
+.card {
+    border: 1px dashed;
+    height: 10rem;
+    width: 10rem;
+}
+
+.solid {
+    border: 2px solid !important;
+}
