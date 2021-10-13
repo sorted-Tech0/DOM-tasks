@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    width: 1140px;
+    height: 60vh;
+    background-color: rgb(137, 148, 148);
+}
+
+.pink {
+    height: 400px;
+    width: 1000px;
+    margin: auto;
+    background-color: pink;
+}
+
+.green {
+    height: 300px;
+    width: 800px;
+    margin: auto;
+    background-color: green;
+}
+
+.lightblue {
+    height: 200px;
+    width: 600px;
+    margin: auto;
+    background-color: lightblue;
+}
+
+.yellow {
+    height: 100px;
+    width: 300px;
+    margin: auto;
+    background-color: yellow;
+}
