@@ -1,0 +1,22 @@
+
+
+.container {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#pass {
+    display: block;
+    margin: auto;
+    margin-top: 10rem;
+    width: 25rem;
+    height: 3rem;
+}
+
+p{
+    text-align: center;
+    font-size: 3rem;
+    display: none;
+}
